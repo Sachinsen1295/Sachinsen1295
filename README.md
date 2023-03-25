@@ -1,6 +1,6 @@
 [![MasterHead](https://image.shutterstock.com/image-vector/data-science-banner-web-icon-260nw-1567366987.jpg)
 <h1 align="center">Hi 👋, I'm Sachin Sen</h1>
-<h3 align="center">A passionate Data scientist from India</h3>
+<h3 align="center">A passionate Data scientist from Delhi,India</h3>
 <img align="right" alt="coding" width="400" src="https://assets.datacamp.com/production/repositories/5666/datasets/9a5790717ccd1e1f89c427edbd3a20506cdaec68/ds_l.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinsen1295&label=Profile%20views&color=0e75b6&style=flat" alt="sachinsen1295" /> </p>
